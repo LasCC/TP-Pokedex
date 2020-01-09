@@ -1,0 +1,76 @@
+* {
+	font-family: "VT323", monospace !important;
+}
+
+.pokedexColor {
+	background: rgb(148, 27, 27);
+	background: linear-gradient(
+		30deg,
+		rgba(148, 27, 27, 1) 0%,
+		rgba(205, 14, 14, 1) 41%,
+		rgba(255, 0, 0, 1) 100%
+	);
+}
+
+.panelLeft {
+	background: linear-gradient(
+		15deg,
+		#cad5b5 64%,
+		#dde2d4 70%,
+		#dde2d4 81%,
+		#fff 86%,
+		#dde2d4 89%,
+		#dde2d4 100%
+	);
+	border: inset #9aa28b 3px;
+}
+
+.panelRight {
+	background: linear-gradient(
+		14deg,
+		rgb(165, 205, 83) 60%,
+		rgb(193, 217, 144) 65%
+	);
+	border: inset #9aa28b 3px;
+}
+
+.nameScreen {
+	background: linear-gradient(
+		14deg,
+		rgb(165, 205, 83) 60%,
+		rgb(193, 217, 144) 65%
+	);
+	border-radius: 3px;
+	border: inset #879a65 3px;
+}
+
+.buttonShiny {
+	background: linear-gradient(
+		14deg,
+		#bf8823 10%,
+		#ffee90 25%,
+		#e6a617 47%,
+		#ffee90 73%,
+		#fff6c8 74%,
+		#ffee90 80%
+	);
+	border-color: #cdb589;
+	width: 90px;
+	text-shadow: white -1px 1px;
+}
+
+.spriteRotate {
+	border: groove grey 3px !important;
+	border-radius: 20px !important;
+	cursor: pointer !important;
+	color: black !important;
+	padding: 1px !important;
+	border-color: #b06868 !important;
+}
+
+.spriteRotate:hover {
+	border-color: #b8ed7c !important;
+}
+.spriteRotate:active {
+	border-color: #f4fcb9 !important;
+}
