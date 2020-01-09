@@ -1,6 +1,6 @@
-## ESTIAM - Pokédex
+## ESTIAM - Instragram
 
-![](https://i.imgur.com/1WZgYn6.jpg)
+![](https://i.imgur.com/cVRsMV9.png)
 
 ```
 $ npm i 
