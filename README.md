@@ -1,4 +1,4 @@
-## ESTIAM - Pokemon
+## ESTIAM - Pokédex
 
 ![](https://i.imgur.com/1WZgYn6.jpg)
 
